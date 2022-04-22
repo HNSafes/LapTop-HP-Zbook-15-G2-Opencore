@@ -1,4 +1,4 @@
-# 📫 Opencore Laptop HP Zbook 15 G2 - 0.8.0 Full Installer Fix All 🥰.              
+# 📫 Laptop HP Zbook 15 G2 - 0.8.0 Opencore 🥰.              
  
 #VNSafes chia sẻ cho anh em full bộ cài đặt macOS Monterey 12.3.1 Opencore dành cho laptop HP Zbook 15 G2, ae nào chung cấu hình với mình thì có thể tải về chơi nhé.
 
